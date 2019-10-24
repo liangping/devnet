@@ -59,6 +59,8 @@ This command will generate a number of files in the `my-node-config`:
 - Commit the file to this repo
 - Open a PR to https://github.com/open-libra/devnet
 
+See this PR for an example: <https://github.com/open-libra/devnet/pull/3/files>
+
 [//]: # (links)
 
 [1]: https://github.com/open-libra/cli
