@@ -1,0 +1,11 @@
+id = "4a7034ebd3b6acd2ee4c8507eb165e1c9fb4675bb07df22931d4086ee35fd7ca"
+description = "Staking Fund"
+website_url = "https://staking.fund"
+logo_url = "https://s3.amazonaws.com/keybase_processed_uploads/d48739023a250815c4ac564c9870ec05_360_360.jpg"
+
+[consensus]
+c = "e4620252fe9c71263f035bd6216c6869773c6a16334462d8200f77483f1e8da0"
+
+[network]
+ns = "b5be5f150a116ab9485d892dc68c7f4311ca62b7f39c9be6f08ea369cb7d4aac"
+ni = "6da7532ddb154b58c76d0c7e870514a552a247db5859229763239ce7184f5750"
