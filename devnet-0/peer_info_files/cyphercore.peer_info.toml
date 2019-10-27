@@ -1,6 +1,6 @@
 id = "7d8792f069db6e39201e52128d303d3977c3d1aefc3acf6054efbac31187fb9d"
 description = "Cypher Core"
-website_url = http://cyphercore.io""
+website_url = "http://cyphercore.io"
 logo_url = "https://s3.amazonaws.com/keybase_processed_uploads/a8b06c066e7fb928abef3e4508adf205_360_360.jpg"
 
 [consensus]
