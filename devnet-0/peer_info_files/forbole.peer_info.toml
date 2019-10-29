@@ -1,0 +1,11 @@
+id = "c749909217da115fd68908f2e8b6b84dc63872ff66d40749ea54e46b2db07a98"
+description = "Forbole - Libra 🇭🇰"
+website_url = "https://www.forbole.com"
+logo_url = "https://forbole-val.s3.ap-east-1.amazonaws.com/forbole-logo-icon.png"
+
+[consensus]
+c = "b3d35e430ed0f0655f251c90ead7d416b2974ded2c9b1eb08829fd3ef2a42ceb"
+
+[network]
+ns = "e598c2431589c9447ff53b484812442e25f0ae093847444b2ab7cbac93fff810"
+ni = "9dd3e7fe504add8549d7b293f305c02d1ac5dc8e9f5504b1520c3e1f89445e36"
