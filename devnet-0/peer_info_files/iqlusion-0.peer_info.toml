@@ -1,7 +1,7 @@
 id = "0e3b8295d01f6f9bdf570834a59c779e7eda500fbe3374dc03ad4c399dd99c3e"
-description = "iqlusion"
+description = "iqlusion validator #0"
 website_url = "https://iqlusion.io"
-logo_url = "https://storage.cloud.google.com/iqlusion-production-web/img/logo/iqlusion-rings-sm.png"
+logo_url = "https://storage.googleapis.com/iqlusion-production-web/img/logo/iqlusion-rings.svg"
 
 [consensus]
 c = "5886b335d72ac1853f27610e94b0b2d6c788db678e9a0c0140cd2b08782f4be7"
