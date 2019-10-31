@@ -1,7 +1,6 @@
-# Put Your `peer_info.toml` Files Here!
+# `devnet-0` signups are closed!
 
-This is the directory where we are collecting `peer_info.toml` files.
+Do not place new `peer_info.toml` files in this directory.
 
-Rename the file to `<mynodename>.peer_info.toml` and commit it to this
-directory.
-
+If you are interested in participating in a future OpenLibra Devnet, please
+place your files in the `devnet-1/peer_info_files` directory instead.

@@ -1,0 +1,11 @@
+id = "263d4a7aab7777096c339cbbf56276d3b29d661d94f705a09cdf248d4bc3c7cc"
+description = "Liberators of Libra"
+website_url = ""
+logo_url = ""
+
+[consensus]
+c = "9b371f309eca9dc6c1263a88132c180efc4a0fe52077bf1b685864ca70f6963e"
+
+[network]
+ns = "15c11e2f7600eaf7f1bd009ec431e40d44451e6c47c46f7ea31abee704df69dc"
+ni = "6ad8dac3d5c798643d157842e16ed9d3d3e8f329d5a767da5c5daf1c881f0c7a"

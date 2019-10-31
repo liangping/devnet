@@ -1,0 +1,11 @@
+id = "abe1c1057c6f673c9ebb4ae48fffab3ab37b49cf4f4b88e6c526632fe6c54894"
+description = "P2P.ORG - P2P Validator"
+website_url = "https://p2p.org/"
+logo_url = "https://www.gravatar.com/avatar/0a268a125728e5c50b3ce6465bfe4571?s=200"
+
+[consensus]
+c = "4d0727b2cb4880e2978baf095fd472e96d948cea09c4188e65b8ccbdabdf87d3"
+
+[network]
+ns = "745a815ad42d15478e29e3c4649332e233aef313fae7f4ffb6154ba260dd8a74"
+ni = "20a679dd6f7ac9ec3d47927d688331183b51b1e9171e7370ccf9db6946a84e7b"
