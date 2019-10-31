@@ -1,0 +1,11 @@
+id = "5cdfdbce13cd59a886d0e49d520d5a2a87bce2747ac65672cd48a8d26b516170"
+description = "Dokia-Libra"
+website_url = "https://staking.dokia.cloud"
+logo_url = "https://dokia.capital/img/logo.svg"
+
+[consensus]
+c = "8eddc8b525ff0a1c34a1c5669045ae063a318d473783a0a59d5ca1bbb1503a92"
+
+[network]
+ns = "f13e95a14a25d6123659fe9f6281573fd3314fa9dbe10bd89c68be0440d540f7"
+ni = "aee721ec5db02454df779953266e7ae5ea3716439b553e37172abfa6d659884f"

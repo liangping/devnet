@@ -1,0 +1,12 @@
+id = "e61cb83073c1a52310938b60f65726eff9478a7bd70fc01e5f12598a319100b4"
+description = "iqlusion seed node"
+website_url = "https://iqlusion.io"
+logo_url = "https://storage.googleapis.com/iqlusion-production-web/img/logo/iqlusion-rings.svg"
+seed_ip = "/ip4/34.82.13.53/tcp/6180"
+
+[consensus]
+c = "ca7d9c9d794c42f8f6e7d22dabcdb980b11930712990bdfa99c1dcaad7483a38"
+
+[network]
+ns = "e20380ff244da05e3ab01ff26bea9724dc047b2009f1432d2bffe9213e78b70f"
+ni = "abd30c080c1346dbe6e84cffc81f54a8a1252bcc306c9fc602ae331956dc5165"

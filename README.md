@@ -2,9 +2,20 @@
 
 Coordination repository for the OpenLibra Devnet.
 
-We are ready to start registering nodes for the initial OpenLibra Devnet.
 Follow the instructions below to generate your node keys and commit them
 to this repository.
+
+## NOTE: `devnet-0` signups are closed!
+
+Signups for the initial OpenLibra Devnet (`devnet-0`) are now closed.
+
+If you are interested in participating in a future Devnet, follow the
+instructions below, placing your `peer_info.toml` file in the `devnet-1`
+subdirectory.
+
+Note that if you already submitted a `peer_info.toml` file for `devnet-0`
+it has been carried over and you don't need to resubmit it unless you plan
+on changing the encryption keys.
 
 ## How to Join
 
@@ -55,7 +66,7 @@ This command will generate a number of files in the `my-node-config`:
 - (Optional) edit the file and set `description`, `website_url`, and `logo_url`
   for your node.
 - Rename the `peer_info.toml` file to `mynodename.peer_info.toml`
-- Place it in the `devnet-0/peer_info_files` directory to this repo
+- Place it in the `devnet-1/peer_info_files` directory to this repo
 - Commit the file to this repo
 - Open a PR to https://github.com/open-libra/devnet
 

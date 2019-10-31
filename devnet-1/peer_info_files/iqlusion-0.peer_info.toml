@@ -1,0 +1,11 @@
+id = "0e3b8295d01f6f9bdf570834a59c779e7eda500fbe3374dc03ad4c399dd99c3e"
+description = "iqlusion validator #0"
+website_url = "https://iqlusion.io"
+logo_url = "https://storage.googleapis.com/iqlusion-production-web/img/logo/iqlusion-rings.svg"
+
+[consensus]
+c = "5886b335d72ac1853f27610e94b0b2d6c788db678e9a0c0140cd2b08782f4be7"
+
+[network]
+ns = "5ac5acae53dfdac18a412f3e88227ad0cda5c00f091f4e0ab313c23c5667b32f"
+ni = "4594f52a291b3142cc7a5d1b54c3cf79bccc729ca80983d6961980201bf9391d"

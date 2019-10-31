@@ -1,0 +1,11 @@
+id = "8ffa0a11399f4b69790716ce5c80b48f4c6e551b0135113b5fb14e36f17543cf"
+description = "Synestate LLC"
+website_url = "https://synestate.com"
+logo_url = "https://synestate.com/img/Synestate_400x400.jpg"
+
+[consensus]
+c = "ce7b2c1d096f57c6b4b93b484f59589a30c2f0a8a026209140451ebbf30392e5"
+
+[network]
+ns = "ffdfcbd6e46f47abbff94ee7f7b6f1ea67eb8779543f5fcbbce86b831bc57a2e"
+ni = "6cb23654d795beecf631798b08eee38a25255cc1162427af5bd6217a41a0fd12"

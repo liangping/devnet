@@ -1,0 +1,11 @@
+id = "e97bbc9ae53dff2678d262e0bf99ca59e0c765362a6d129f9a1c5662e6060cc2"
+description = "BasBlock <3 open-libra"
+website_url = ""
+logo_url = ""
+
+[consensus]
+c = "3913893608aa34d750f15ba791d8bee5f3ae9afb7d27600b2b939f0578e27e03"
+
+[network]
+ns = "84629bbaa3ee91e4fa35b0ebac2c863ce8d7fd68b72df0aa8f2fb81b1d6b367e"
+ni = "f08fd4da5102b2902258e37bd4e9ecce09968b9ce6a90b95b6c843b1696f7916"
