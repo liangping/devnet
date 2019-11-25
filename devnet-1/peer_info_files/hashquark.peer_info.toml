@@ -1,0 +1,11 @@
+id = "7a952bf90c10881cb1f777dff148e3236e0ad1a790b2fbaefe47e53b6ca0d96a"
+description = "Staking Made Easier"
+website_url = "https://www.hashquark.io/"
+logo_url = ""
+
+[consensus]
+c = "4717b9ba99391f6f58ae95002d07c9421089cc23e8c415c096f818511c864958"
+
+[network]
+ns = "fd2f8183e387f2dbb95bf3ac9ad49ff1fea425320484ae866bd1360770a83dc4"
+ni = "e6a2a60cbdff2b61e7a35413b462606748beac9556cd7db12390feec46740d00"
