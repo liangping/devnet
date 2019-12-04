@@ -1,0 +1,11 @@
+id = "be9df186f1a50d1e4607d5fafd4e19c5d84fe572c0fc50d53ee437948883d8ac"
+description = "I love OpenLibra"
+website_url = "https://ping.pub"
+logo_url = ""
+
+[consensus]
+c = "120dc1efceb26ec991f4ebd3eb87aa0b651d12dc06d74f0398bb6556bd2b353a"
+
+[network]
+ns = "1e59485f88996b751fddf06315256bcb564d1b1439b8f30bbba11655ff34fb5d"
+ni = "e669da2019bc2bd48f419491ee31fd4687f0d45a0153a0ddfdd4813d7bda974a"
